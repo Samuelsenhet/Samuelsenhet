@@ -2,7 +2,7 @@
 
 I build software products end to end, mostly alone, from Sweden. One of them is in the App Store. I also run a circle where men talk.
 
-I take a product the whole way rather than stopping at a prototype: the interface, the app, the database and its access rules, the migrations, the release builds, the store listing in two languages, and the review submissions. It is slower than specialising, but nothing about what I ship is a mystery to me.
+I take a product the whole way rather than stopping at a prototype: the interface, the app, the database and its access rules, the migrations, the release builds, the store listing, and the review submissions. It is slower than specialising, but nothing about what I ship is a mystery to me.
 
 ### What I'm building
 
