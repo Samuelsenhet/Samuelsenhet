@@ -17,3 +17,8 @@ I take a product the whole way rather than stopping at a prototype: the interfac
 Mostly TypeScript, React and React Native, Expo, and Postgres by way of Supabase. I care much more about what a product does to the person using it than about which framework it was built with.
 
 Most of what I build is closed source today. That is a decision about timing rather than a position on open source, and I would rather say so plainly than label a private repository as something it is not.
+
+### Elsewhere
+
+- [samuelsenhet.github.io](https://samuelsenhet.github.io) is my website, and its source is [right here](https://github.com/Samuelsenhet/Samuelsenhet.github.io).
+- Contact details are on the site.
