@@ -6,7 +6,7 @@ I take a product the whole way rather than stopping at a prototype: the interfac
 
 ### What I'm building
 
-**[MÄÄK](https://apps.apple.com/se/app/id6789912827)** is live on the App Store, on version 1.0.7. A Swedish dating app that matches on personality instead of photographs: it proposes a few people a day, some who resemble you and some who complement you, and there is no infinite grid to scroll. Built with Expo on top of Supabase, with phone sign-in and realtime chat.
+**[MÄÄK](https://apps.apple.com/se/app/id6789912827)** is live on the App Store, on version 1.0.7. A Swedish app for knowing yourself, and for understanding how you work with other people. You meet a teacher in a private room that reflects you back, answer calm questions, and get a reading of what it sees in you and where things chafe. It also lets you rehearse a dynamic with an imagined counterpart before you live it. No feed, no profiles to browse, no ads, and you can always read in plain language what the app knows about you. Built with Expo on Supabase. [maakapp.se](https://maakapp.se)
 
 **Bibelrösten** is in development. A Swedish voice you call and talk with for five minutes, with no account and no chat log. The hard part is the promise that when it says "the Bible says", the words really are in the Bible, so the model is not allowed to write them. The model writes a reference and a control layer between speech recognition and speech synthesis inserts the verified text.
 
