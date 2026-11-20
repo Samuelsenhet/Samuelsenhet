@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330" role="img" aria-labelledby="t d">
+<title id="t">Samuel, in a terminal</title>
+<desc id="d">Samuel builds software end to end, mostly alone, from Sweden. Now: MÄÄK is live on the App Store, Prata Öppet is a circle where men talk, Bibelrösten and Crava are in development.</desc>
+<rect x="0.5" y="0.5" width="759" height="329" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="759" height="38" rx="12" fill="#161b22"/><rect x="0.5" y="24" width="759" height="15" fill="#161b22"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
+<text x="380.0" y="25" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">samuelsenhet</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+<text x="28" y="86" fill="#3fb950">$ whoami<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.100;0.167" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="116" fill="#e6edf3"><tspan font-weight="700">samuel</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.193;0.260" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="178" y="116" fill="#8b949e">builds software end to end, mostly alone, from Sweden<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.193;0.260" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="156" fill="#3fb950">$ ls now<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.287;0.353" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="186" fill="#e6edf3"><tspan font-weight="700">MÄÄK</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.380;0.447" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="178" y="186" fill="#8b949e">live on the App Store<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.380;0.447" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="216" fill="#e6edf3"><tspan font-weight="700">Prata Öppet</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.473;0.540" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="178" y="216" fill="#8b949e">a circle where men talk, for three years<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.473;0.540" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="246" fill="#e6edf3"><tspan font-weight="700">Bibelrösten</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.567;0.633" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="178" y="246" fill="#8b949e">in development: a voice you call<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.567;0.633" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="276" fill="#e6edf3"><tspan font-weight="700">Crava</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.660;0.727" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="178" y="276" fill="#8b949e">in development: a marketplace in reverse<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.660;0.727" dur="3s" begin="0.01s" fill="freeze"/></text>
+<text x="28" y="306" fill="#3fb950">$ <tspan>█<animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="1s" begin="3s" repeatCount="6"/></tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.847;0.913" dur="3s" begin="0.01s" fill="freeze"/></text>
+</g>
+</svg>

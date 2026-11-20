@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile-card.svg" width="760" alt="A terminal card: Samuel builds software end to end, mostly alone, from Sweden. Now: MÄÄK is live on the App Store, Prata Öppet is a circle where men talk, Bibelrösten and Crava are in development.">
+</p>
+
 ## Hey, I'm Samuel
 
 I build software products end to end, mostly alone, from Sweden. One of them is in the App Store. I also run a circle where men talk.
